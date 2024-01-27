@@ -1,0 +1,3 @@
+[submodule "grapesapp"]
+    path = grapesapp
+    url = https://github.com/Manish-drapcode/ReactGrapesJs
